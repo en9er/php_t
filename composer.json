@@ -1,0 +1,13 @@
+{
+    "name": "admin/web-tools",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework",
+            "App\\": "App"
+        },
+        "files": [
+            "App/routes.php"
+        ]
+    },
+    "require": {}
+}
